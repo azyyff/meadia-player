@@ -1,1 +1,1 @@
-export const server_url='http://localhost:3000'
+export const server_url='https://server-dc5a.onrender.com'
